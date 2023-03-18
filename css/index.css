@@ -1,0 +1,225 @@
+/* COMMON CSS START */
+body {
+  overflow-x: hidden;
+}
+/* COMMON CSS END */
+
+/* NAVBAR START */
+
+#nevbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+}
+
+#nevbar .navbar-brand h3 {
+  font-size: 26px;
+  font-weight: 800;
+  color: white;
+}
+#nevbar span {
+  font-size: 21px;
+}
+#nevbar .collapse {
+  margin: 0 0 0 360px;
+}
+#nevbar .collapse .nav-item .nav-link {
+  padding: 0 28px;
+  font-size: 17px;
+  font-weight: 800;
+  color: black;
+}
+/* NAVBAR END */
+
+/* BANNER SECTION START */
+
+#bannner {
+  background-image: url(../img/17.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  z-index: 1;
+  text-align: center;
+  color: black;
+  position: relative;
+}
+#bannner .content {
+  padding: 170px 0;
+}
+#bannner .content h3 {
+  font-size: 35px;
+  padding: 60px 0 30px 0;
+}
+#bannner .content h1 {
+  font-size: 76px;
+  font-weight: 700;
+  padding: 0 0 70px 0;
+}
+#bannner a {
+  padding: 20px 30px;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: rgb(197, 49, 98);
+  border-radius: 50px;
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid rgb(197, 49, 98);
+  transition: 0.4s;
+}
+#bannner a:hover {
+  background-color: transparent;
+  border: 1px solid #fff;
+}
+
+/* BANNER SECTION END */
+
+/* UPCOMING EVENTS START */
+
+#events {
+  text-align: center;
+  background-color: #fff;
+  color: #000;
+  padding-bottom: 50px;
+}
+#events .content {
+  padding: 45px 0 0 0;
+}
+#events .content h3 {
+  font-size: 26px;
+  font-weight: 700;
+}
+#events .content p {
+  font-size: 16px;
+  padding: 15px 0 30px 0;
+}
+#events .content h2 {
+  font-size: 45px;
+  font-weight: 700;
+}
+#events .item {
+  padding: 40px 0 0 0;
+}
+#events .item img {
+  padding: 0 0 25px 0;
+}
+#events .item h4 {
+  font-size: 24px;
+  font-weight: 700;
+}
+#events .item p {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 10px 0 10px 0;
+}
+#events a {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: rgb(197, 49, 98);
+  border-radius: 50px;
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid rgb(197, 49, 98);
+  transition: 0.4s;
+}
+#events a:hover {
+  background-color: transparent;
+  border: 1px solid #000;
+  color: #000;
+}
+
+/* UPCOMING EVENTS END */
+
+/* EXPLORE START */
+
+#explore {
+  background-image: url(../img/8.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 100px 0 80px 0;
+  width: 100%;
+}
+#explore .content {
+  padding: 0 0 0 650px;
+}
+#explore .content h2 {
+  font-size: 47px;
+  font-weight: 700;
+  color: #000;
+  padding: 0 0 25px 0;
+}
+#explore .content p {
+  font-size: 17px;
+  font-weight: 400;
+  padding: 0 0 20px 0;
+}
+#explore a {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: rgb(197, 49, 98);
+  border-radius: 50px;
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid rgb(197, 49, 98);
+  transition: 0.4s;
+}
+#explore a:hover {
+  background-color: transparent;
+  border: 1px solid #000;
+  color: #000;
+}
+
+/* EXPLORE END */
+
+/* TOUR START */
+
+#tour {
+  padding: 50px 0 20px 0;
+}
+#tour .content h2 {
+  font-size: 40px;
+  font-weight: 700;
+  padding: 100px 0 0 0;
+}
+#tour .content p {
+  font-size: 22px;
+  padding: 20px 0 20px 0;
+}
+#tour a {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: rgb(197, 49, 98);
+  border-radius: 50px;
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid rgb(197, 49, 98);
+  transition: 0.4s;
+}
+#tour a:hover {
+  background-color: transparent;
+  border: 1px solid #000;
+  color: #000;
+}
+#tour .img-fluid {
+  padding: 0 0 25px 0;
+}
+
+/* TOUR END */
+
+/* FOOTER SECTION START */
+
+#footer {
+  background-color: #000;
+  text-align: center;
+  color: #fff;
+  padding: 50px 0;
+}
+#footer .content h3 {
+  font-size: 16px;
+}
+/* FOOTER SECTION END */

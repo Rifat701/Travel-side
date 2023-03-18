@@ -1,0 +1,387 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 575.98px) {
+  /* NAVBAR START */
+
+  #nevbar {
+    background: #49a4bb;
+  }
+  .navbar-light .navbar-toggler {
+    color: #fff;
+  }
+  #nevbar .nav-link {
+    /* padding: 10px 0 0 -325px; */
+    margin: 10px 0;
+    text-align: center;
+    color: #fff;
+  }
+  #nevbar .collapse {
+    margin: 0px 0 0 0px;
+  }
+  #nevbar .navbar-brand h3 {
+    font-size: 18px;
+    font-weight: 800;
+    color: white;
+  }
+  #nevbar span {
+    font-size: 15px;
+  }
+
+  /* NAVBAR END */
+
+  /* BANNER SECTION START */
+
+  #bannner .content {
+    padding: 128px 0 90px;
+  }
+  #bannner .content h3 {
+    font-size: 20px;
+    padding: 100px 0 0px 0;
+  }
+  #bannner .content h1 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 0 0 10px 0;
+  }
+  #bannner a {
+    padding: 10px 18px;
+    font-size: 10px;
+    font-weight: 400;
+    background-color: rgb(197, 49, 98);
+    border-radius: 50px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid rgb(197, 49, 98);
+    transition: 0.4s;
+  }
+
+  /* BANNER SECTION END */
+
+  /* UPCOMING EVENTS START */
+
+  #events .content {
+    padding: 20px 0 0 0;
+  }
+  #events .content h3 {
+    font-size: 15px;
+    font-weight: 700;
+  }
+  #events .content p {
+    font-size: 14px;
+    padding: 2px 0 5px 0;
+  }
+  #events .content h2 {
+    font-size: 31px;
+    font-weight: 700;
+  }
+  #events .item p {
+    font-size: 10px;
+  }
+
+  /* UPCOMING EVENTS END */
+
+  /* EXPLORE START */
+
+  #explore .content {
+    padding: 0 0 0 165px;
+  }
+  #explore .content h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #000;
+    padding: 0 0 0px 0;
+  }
+  #explore .content p {
+    font-size: 9px;
+    font-weight: 400;
+    padding: 0 0 0px 0;
+  }
+  #explore a {
+    padding: 10px 20px;
+    font-size: 11px;
+    font-weight: 400;
+    background-color: rgb(197, 49, 98);
+    border-radius: 50px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid rgb(197, 49, 98);
+    transition: 0.4s;
+  }
+
+  /* EXPLORE END */
+
+  /* TOUR START */
+
+  #tour .content {
+    text-align: center;
+    padding: 0 0 27px 0;
+  }
+  #tour .content h2 {
+    font-size: 24px;
+    font-weight: 700;
+    padding: 0px 0 0 0;
+  }
+  #tour .content p {
+    font-size: 13px;
+    padding: 5px 0 10px 0;
+  }
+  #tour a {
+    padding: 10px 20px;
+    font-size: 13px;
+    font-weight: 400;
+    background-color: rgb(197, 49, 98);
+    border-radius: 50px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid rgb(197, 49, 98);
+    transition: 0.4s;
+  }
+
+  /* TOUR END */
+
+  /* FOOTER SECTION START */
+
+  #footer .content h3 {
+    font-size: 10px;
+  }
+
+  /* FOOTER SECTION START */
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* NAVBAR START */
+
+  #nevbar {
+    background: transparent;
+  }
+  .navbar-light .navbar-toggler {
+    color: #fff;
+  }
+  #nevbar .nav-link {
+    /* padding: 10px 0 0 -325px; */
+    margin: 10px 0;
+    text-align: center;
+    color: #fff;
+  }
+  #nevbar .collapse {
+    margin: 0px 0 0 0px;
+  }
+  #nevbar .navbar-brand h3 {
+    font-size: 18px;
+    font-weight: 800;
+    color: white;
+  }
+  #nevbar span {
+    font-size: 15px;
+  }
+
+  /* NAVBAR END */
+
+  /* BANNER SECTION START */
+
+  #bannner .content {
+    padding: 65px 0;
+  }
+  #bannner .content h3 {
+    font-size: 22px;
+    padding: 82px 0 5px 0;
+  }
+  #bannner .content h1 {
+    font-size: 32px;
+    font-weight: 700;
+    padding: 0 0 30px 0;
+  }
+  #bannner a {
+    padding: 15px 22px;
+    font-size: 12px;
+    font-weight: 400;
+    background-color: rgb(197, 49, 98);
+    border-radius: 50px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid rgb(197, 49, 98);
+    transition: 0.4s;
+  }
+
+  /* BANNER SECTION END */
+
+  /* UPCOMING EVENTS START */
+
+  #events .content {
+    padding: 30px 0 0 0;
+  }
+  #events .content h3 {
+    font-size: 16px;
+    font-weight: 700;
+  }
+  #events .content p {
+    font-size: 16px;
+    padding: 5px 0 5px 0;
+  }
+  #events .content h2 {
+    font-size: 35px;
+    font-weight: 700;
+  }
+
+  /* UPCOMING EVENTS END */
+
+  /* EXPLORE START */
+  #explore {
+    background-image: url(../img/8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 63px 0 80px 0;
+    width: 100%;
+  }
+  #explore .content {
+    padding: 0px 0 0 195px;
+  }
+  #explore .content h2 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+    padding: 0 0 2px 0;
+  }
+  #explore .content p {
+    font-size: 11px;
+    font-weight: 400;
+    padding: 0 0 3px 0;
+  }
+  #explore a {
+    padding: 10px 15px;
+    font-size: 12px;
+    font-weight: 400;
+    background-color: rgb(197, 49, 98);
+    border-radius: 50px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid rgb(197, 49, 98);
+    transition: 0.4s;
+  }
+
+  /* EXPLORE END */
+
+  /* UPCOMING TOUR START */
+
+  #tour .content {
+    text-align: center;
+    padding: 0 0 20px 0;
+  }
+  #tour .content h2 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 0px 0 0 0;
+  }
+  #tour .content p {
+    font-size: 16px;
+    padding: 10px 0 20px 0;
+  }
+
+  /* UPCOMING TOUR END */
+
+  /* FOOTER SECTION START */
+  #footer .content h3 {
+    font-size: 12px;
+  }
+  /* FOOTER SECTION END */
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* NAVBAR START */
+
+  #nevbar {
+    background: transparent;
+  }
+  .navbar-light .navbar-toggler {
+    color: #fff;
+  }
+  #nevbar .nav-link {
+    /* padding: 10px 0 0 -325px; */
+    margin: 10px 0;
+    text-align: center;
+    color: #fff;
+  }
+  #nevbar .collapse {
+    margin: 0px 0 0 0px;
+  }
+  /* NAVBAR END */
+
+  /*  BANNER SECTION START */
+
+  #bannner .content {
+    padding: 70px 0;
+  }
+  #bannner .content h3 {
+    padding: 110px 0 0 0;
+  }
+  #bannner .content h1 {
+    font-size: 55px;
+    font-weight: 700;
+    padding: 0 0 70px 0;
+  }
+
+  /* BANNER SECTION END */
+
+  /* UPCOMING EVENTS START */
+
+  #events .content h3 {
+    font-size: 22px;
+    font-weight: 700;
+  }
+  #events .content h2 {
+    font-size: 40px;
+    font-weight: 700;
+  }
+  #events .item p {
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px 0 10px 0;
+  }
+  /* UPCOMING EVENTS END */
+
+  /* EXPLORE START */
+  #explore .content {
+    padding: 0px 0 0 355px;
+    text-align: left;
+  }
+  #explore .content h2 {
+    font-size: 26px;
+    font-weight: 700;
+    color: #000;
+    padding: 0 0 12px 0;
+  }
+  #explore .content p {
+    font-size: 12px;
+    font-weight: 400;
+    padding: 0 0 15px 0;
+  }
+
+  /* EXPLORE END */
+
+  /* UPCOMING TOUR START */
+
+  #tour .content {
+    text-align: center;
+    padding: 0 0 40px 0;
+  }
+  #tour .content h2 {
+    font-size: 35px;
+    font-weight: 700;
+    padding: 0px 0 0 0;
+  }
+  #tour .content p {
+    font-size: 16px;
+    padding: 20px 0 20px 0;
+  }
+  /* UPCOMING TOUR END */
+
+  /* FOTER SECTION START */
+  .content {
+    text-align: center;
+    padding: 0 0 0px 0;
+  }
+  #footer .content h3 {
+    font-size: 14px;
+  }
+  /* FOOTER SECTION END */
+}
